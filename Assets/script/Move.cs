@@ -40,6 +40,7 @@ public class Move : MonoBehaviour {
         SceneManager.LoadScene("clear");
 
     }
+   
 
-    
+
 }
